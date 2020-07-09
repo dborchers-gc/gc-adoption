@@ -134,39 +134,12 @@
   ],
   "Categories": [
     {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "FAQ",
+      "Id": "4af3149d-3e23-468d-8a87-5b45c39d4357",
+      "Name": "Adoption Tools",
       "Image": "",
       "TechnologyId": "",
       "SubjectId": "",
       "Source": "Cordes & Graefe KG",
-      "SubCategories": []
-    },
-    {
-      "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
-      "Name": "Schulungsvideos",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Cordes & Graefe KG",
-      "SubCategories": []
-    },
-    {
-      "Id": "618da7fa-0ed2-4653-9dfd-271c3bbe3a44",
-      "Name": "Kurzanleitungen",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Cordes & Graefe KG",
-      "SubCategories": []
-    },
-    {
-      "Id": "cf28bc20-ee23-4453-954e-43cc43af67b6",
-      "Name": "Tools",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
       "SubCategories": []
     }
   ],
@@ -268,9 +241,9 @@
     "AppInsightKey": "089e14f6-1341-44b8-9135-71b3e326e914"
   },
   "Version": {
-    "Manifest": "v3",
-    "ManifestMinWebPart": "3.0.0",
-    "CurrentWebPart": "3.0.0",
+    "Manifest": "v4",
+    "ManifestMinWebPart": "4.0.0",
+    "CurrentWebPart": "4.0.0",
     "RepoURL": "https://github.com/pnp/custom-learning-office-365#updating-the-solution"
   },
   "ContentPacks": [],
